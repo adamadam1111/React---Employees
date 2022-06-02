@@ -1,0 +1,32 @@
+@media (min-width: 900px) {
+    .article {
+        width: 600px;
+    }
+}
+
+.article {
+    width: 20%;
+    margin: auto;
+    border: 1px solid #013629;
+    padding: 12px;
+    text-align: center;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 0px 4px 9px 0px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 0px 4px 9px 0px rgba(66, 68, 90, 1);
+    box-shadow: 0px 4px 9px 0px rgba(66, 68, 90, 1);
+}
+
+.blue {
+    color: rgb(11, 167, 146);
+    font-size: larger;
+}
+
+.blue:hover {
+    color: rgb(6, 7, 104);
+}
+
+.black {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-style: italic;
+}
